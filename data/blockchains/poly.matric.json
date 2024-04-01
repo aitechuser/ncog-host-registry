@@ -1,0 +1,19 @@
+{
+    "name": "Polygon (Matic) Mainnet",
+    "rpc": ["https://rpc-mainnet.maticvigil.com/"],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "Matic",
+      "symbol": "MATIC"
+    },
+    "chainId": 137,
+    "rpc_url": "wss://polygon-bor-rpc.publicnode.com",
+    "contractAddress" :"0x1F10fd94564a15390d1e19D0E07Df280bA169819",
+    "explorers": [
+      {
+        "name": "PolygonScan",
+        "url": "https://polygonscan.com",
+        "standard": "Polygon Explorer"
+      }
+    ]
+  }
