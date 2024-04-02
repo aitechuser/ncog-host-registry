@@ -7,7 +7,7 @@
       "symbol": "ETH"
     },
     "chainId": 11155111,
-    "contractAddress" :"0x1F10fd94564a15390d1e19D0E07Df280bA169819",
+    "contractAddress" :"0x7D8cd8793CbD81B79b75a477a0cF88367B4EAdf7",
     "rpc_url" : "https://rpc2.sepolia.org" , 
     "explorers": [
       {
