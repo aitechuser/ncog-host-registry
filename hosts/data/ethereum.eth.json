@@ -1,5 +1,5 @@
 {
-    "name": "Sepolia test network",
+    "name": "Sepolia test network-Updated",
     "rpc": ["https://sepolia.infura.io/v3/"],
     "faucets": [],
     "nativeCurrency": {
