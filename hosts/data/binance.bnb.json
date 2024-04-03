@@ -1,0 +1,19 @@
+{
+  "name": "Binance Smart Chain",
+  "rpc": ["https://bsc-dataseed.binance.org/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Binance Coin",
+    "symbol": "BNB"
+  },
+  "chainId": 56,
+  "rpc_url": "https://binance.llamarpc.com",
+  "contractAddress" :"0x1F10fd94564a15390d1e19D0E07Df280bA169819",
+  "explorers": [
+    {
+      "name": "BscScan",
+      "url": "https://bscscan.com",
+      "standard": "Binance Smart Chain Explorer"
+    }
+  ]
+}
