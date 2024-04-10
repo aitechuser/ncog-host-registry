@@ -1,0 +1,19 @@
+{
+    "name": "Neon-Devnet",
+    "rpc": ["https://sepolia.infura.io/v3/"],
+    "faucets": ["https://devnet.neonevm.org/"],
+    "nativeCurrency": {
+      "name": "Currency Name",
+      "symbol": "NEON"
+    },
+    "chainId": 245022926,
+    "rpc_url" : "https://devnet.neonevm.org/" , 
+    "explorers": [
+      {
+        "name": "neon",
+        "url": "https://neon-devnet.blockscout.com",
+        "standard": "none"
+      }
+    ]
+}
+
